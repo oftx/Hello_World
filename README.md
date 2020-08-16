@@ -1,1 +1,1 @@
-Android初学者开发的应用程序
+Android
